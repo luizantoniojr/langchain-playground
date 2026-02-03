@@ -2,6 +2,8 @@
 
 Um projeto de aprendizado e experimentação com LangChain, focado em explorar as capacidades de LLMs (Large Language Models) e construir aplicações com IA.
 
+**Repositório:** [https://github.com/luizantoniojr/langchain-playground](https://github.com/luizantoniojr/langchain-playground)
+
 ## 📋 Sobre
 
 Este repositório contém notebooks Jupyter e scripts para experimentar com:
@@ -22,7 +24,7 @@ Este repositório contém notebooks Jupyter e scripts para experimentar com:
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/luizantoniojr/langchain-playground.git
 cd langchain-playground
 ```
 
