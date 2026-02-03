@@ -2,6 +2,7 @@ ipykernel
 langchain
 langchain-community
 langchain-openai
+langchain-core
 openai
 huggingface_hub
 transformers
