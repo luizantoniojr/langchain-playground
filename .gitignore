@@ -174,3 +174,6 @@ logs/
 tmp/
 temp/
 *.tmp
+
+# Database
+dbs/
