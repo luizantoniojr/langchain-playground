@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ```
 langchain-playground/
-├── scripts/
+├── notebooks/
 │   └── 01-first-test.ipynb    # Primeiros testes com LangChain
 ├── requirements.txt            # Dependências do projeto
 ├── .gitignore                  # Arquivos ignorados pelo Git
@@ -83,7 +83,7 @@ langchain-playground/
 Abra os notebooks Jupyter para explorar os exemplos:
 
 ```bash
-jupyter notebook scripts/
+jupyter notebook notebooks/
 ```
 
 Ou use JupyterLab:
